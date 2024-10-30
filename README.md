@@ -11,14 +11,17 @@ Please contact if interested in learning more.
 This document is a combination of all the custom nodes in comfyui in a single python script. With the intention of breaking multiple frames of an animation (mp4/gif) breaking it into line art and then outputting the results into multiple ai generate frames. with a new colour.
 
 # Before
-![gif images](./.github/readme-images/godgif.gif)
+![gif images](./.github/readme-images/e1d.gif)
+
+# AI lineart and AI depth
+![gif2](./.github/readme-images/godgif.gif)
+
+# AI generated images
+![gif3](./.github/readme-images/d1.gif) ![gif4](./.github/readme-images/d2.gif) 
+
+# with background 
+
+![gif5](./.github/readme-images/d3.gif)
 
 
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
